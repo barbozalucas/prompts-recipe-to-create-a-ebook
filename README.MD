@@ -59,7 +59,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-    <p>&nbsp&nbsp&nbspLucas Barbozar<br>
+    <p>&nbsp&nbsp&nbspLucas Barboza<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/barbozalucas">
     GitHub</a>&nbsp;|&nbsp;
